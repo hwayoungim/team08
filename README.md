@@ -1,3 +1,4 @@
+# 배포된 앱 URL: https://team08-mental-health.streamlit.app/
 # 공공 의료데이터 및 뉴스 빅데이터 기반 정신질환 진료 추이 분석 대시보드
 
 ## 1. 프로젝트 소개
